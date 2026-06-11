@@ -1,4 +1,4 @@
-# 🚗 Spoofy Vehicle Tracking System
+# 🚗 Vehicle Tracking System
 
 A premium AI-powered vehicle tracking system with real-time dashboard, alerts, and analytics.
 
